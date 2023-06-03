@@ -47,7 +47,7 @@ python agent.py
 
 ## Screenshots
 
-![Gameplay](reinforcement-learning.gif)
+![Gameplay](examples/reinforcement-learning.gif)
 
 ## Contributing
 
