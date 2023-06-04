@@ -49,10 +49,10 @@ python agent.py
 
 <img src="example/reinforcement-learning.gif">
 
-<div style="text-align: center;">
-  <img src="example/Score-vs-games.png">
+<div>
+  <center><img src="example/Score-vs-games.png"></center>
   <br>
-  <p>Score vs Number of Games graph</p>
+  <center><p>Score vs Number of Games graph</p></center>
 </div>
 
 ## Contributing
