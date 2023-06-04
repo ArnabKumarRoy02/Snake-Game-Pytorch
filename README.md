@@ -47,15 +47,16 @@ python agent.py
 
 ## Screenshots
 
-<img src="example/reinforcement-learning.gif">
-<br>
-<p style="text-align: center;">Video Implementation of the game</p>
-<br>
-
-<div>
-  <img align="center" src="example/Score-vs-games.png">
+<div align="center">
+  <img src="example/reinforcement-learning.gif">
+  <p>Video Implementation of the game</p>
   <br>
-  <p style="text-align: center;">Score vs Number of Games graph</p>
+</div>
+
+<div align="center">
+  <img src="example/Score-vs-games.png">
+  <br>
+  <p>Score vs Number of Games graph</p>
 </div>
 
 ## Contributing
