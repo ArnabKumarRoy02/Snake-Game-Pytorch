@@ -49,6 +49,12 @@ python agent.py
 
 <img src="example/reinforcement-learning.gif">
 
+<div style="text-align: center;">
+  <img src="example/Score-vs-games.png">
+  <br>
+  <p>Score vs Number of Games graph</p>
+</div>
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
